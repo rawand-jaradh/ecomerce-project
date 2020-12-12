@@ -110,6 +110,36 @@ text-align: right;
 .clearfix{
   clear: both;
 }
+
+table {
+  border-collapse: collapse;
+  border: 5px solid #ddd;
+  table-layout: auto; 
+  width: 60%;
+  text-align: center;
+  margin-left: 22%;
+  margin-top: 4%;
+} 
+
+th,td {
+  border:  5px solid #ddd;
+}
+
+h2 {
+text-align: center;
+}
+
+.btn1{
+  background-color: #e83e8c;
+  font-size: 20px;
+  padding: 16px;
+  margin-left: 45%;
+  border-radius: 4%;
+  border: none;
+  color: #fff;
+    
+}
+
 .boxes .box1{
   width: 24%;
   float: left;
